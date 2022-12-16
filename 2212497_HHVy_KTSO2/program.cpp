@@ -18,6 +18,7 @@ void ChayChuongTrinh() {
 		{"2218429","DINH DUC THIEN","CTK46B",8.975431},
 		{"2235847","NGUYEN VAN THA","CTK46A",6.99885},
 		{"2249476","CHAU NHUAN PHAT","CTK46A",5.99832} };
+	//test 
 	XuatMenu();
 	do {
 		chon = ChonMenu(soMenu);
